@@ -20,4 +20,4 @@ I used to rely on random.org, but thought random number generation was a great u
 
 ## Credits
 
-This worker was generated using the helpful [workers-typescript-template](https://github.com/cloudflare/workers-typescript-template) by cloudflare.
+This worker was generated using the helpful [workers-typescript-template](https://github.com/cloudflare/worker-typescript-template) by cloudflare.
