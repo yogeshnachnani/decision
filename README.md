@@ -14,7 +14,7 @@ I used to rely on random.org, but thought random number generation was a great u
 
 * `wrangler dev` to try out your worker on your local machine
 
-### 👀 Previewing and Publishing
+### Previewing and Publishing
 
 * `wrangler publish` to deploy  the worker to your cloudlare account. Follow Step 8 of [this guide](https://developers.cloudflare.com/workers/get-started/guide#8-publish-your-project)
 
